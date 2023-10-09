@@ -1,2 +1,2 @@
 Это Ленин файл!
-sofa`s changes
+sofa`s changes conflict!
